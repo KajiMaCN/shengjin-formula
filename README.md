@@ -77,9 +77,7 @@ $$
 
 ​	**其中：**
 
-$$
-\theta=\arccos T, T=\frac{2 A b-3 a B}{2 \sqrt{A^3}}(A>0,-1<T<1)
-$$
+$\theta=\arccos T, T=\frac{2 A b-3 a B}{2 \sqrt{A^3}}(A>0,-1<T<1)$
 
 
 ### 参考资料
