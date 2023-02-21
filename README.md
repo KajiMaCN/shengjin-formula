@@ -40,7 +40,7 @@ $$
 
 $$
 \left\{\begin{array}{c}
-x_1=\frac{-b-\sqrt[3]{Y_1}-\sqrt[3]{Y_2}}{=} \\
+x_1=\frac{-b-\sqrt[3]{Y_1}-\sqrt[3]{Y_2}}{3 a} \\
 x_{2,3}=\frac{-2 b+\sqrt[3]{Y_1}+\sqrt[3]{Y_2} \pm \sqrt{3}\left(\sqrt[3]{Y_1}-\sqrt[3]{Y_2}\right) i}{6 a}
 \end{array}\right.
 $$
@@ -77,7 +77,9 @@ $$
 
 ​	**其中：**
 
-$\theta=\arccos T, T=\frac{2 A b-3 a B}{2 \sqrt{A^3}}(A>0,-1<T<1)$
+$$
+\theta=\arccos T, T=\frac{2 A b-3 a B}{2 \sqrt{A^3}}(A>0,-1<T<1)
+$$
 
 
 ### 参考资料
